@@ -1,6 +1,7 @@
 Code is available at:
 https://github.com/chunloklo/ml-supervised-learning
 
+Create a folder named data, npData, and objData
 Obtain the MAGIC Gamma Telescope dataset from https://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope
 put magic04.data under data/
 
